@@ -1,4 +1,4 @@
-# AI Skills
+# Skillsmith: AI Agent Skills
 
 An open-source collection of reusable skills for AI coding agents. Each skill is a focused instruction package that teaches an agent how to handle a repeatable workflow.
 
