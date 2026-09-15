@@ -9,6 +9,7 @@ An open-source collection of reusable skills for AI coding agents. Each skill is
 | [`llm-council`](skills/llm-council/SKILL.md) | Use a structured council of language models to examine a decision from multiple perspectives. |
 | [`skill-factory`](skills/skill-factory/SKILL.md) | Design, validate, and improve high-quality AI-agent skills. |
 | [`bulletproof-react`](skills/bulletproof-react/SKILL.md) | Build, refactor, and review production React applications with scalable architecture and quality practices. Source: [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) (MIT). |
+| [`angular-commit-messages`](skills/angular-commit-messages/SKILL.md) | Write and validate Angular changelog-compatible Git commit messages. |
 
 ## Install
 
