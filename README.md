@@ -59,4 +59,4 @@ A good skill is focused, actionable, tool-neutral where possible, safe by defaul
 
 ## License
 
-Add a license before publishing or accepting external contributions.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 superXdev.
